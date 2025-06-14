@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kashif Akram</h1>
 
 <p align="center">
-  <img src="![Uploading ChatGPT Image Jun 13, 2025, 12_10_39 PM.png…]()
-" alt="Kashif Akram banner"/>
+ <img src="https://raw.githubusercontent.com/kashifAkram0345/kashifAkram0345/main/banner.png" alt="Kashif Akram banner"/>
 </p>
 
 ---
