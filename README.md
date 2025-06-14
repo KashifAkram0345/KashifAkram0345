@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kashif Akram</h1>
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/kashifAkram0345/kashifAkram0345/main/banner.png" alt="Kashif Akram banner"/>
+ <img src="https://github.com/kashifAkram0345/kashifAkram0345/blob/main/banner.png?raw=true" alt="Kashif Akram banner"/>
 </p>
 
 ---
