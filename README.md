@@ -10,7 +10,7 @@
 
 - 💻 I'm passionate about **programming and building web interfaces**
 - 🎓 Strong foundation in **C++, C**, and **Object-Oriented Programming**
-- 🌐 Comfortable with **HTML** and **CSS** for front-end development
+- 🌐 Comfortable with **HTML**, **CSS**, and **JavaScript** for front-end development
 - 📚 Always learning and improving my skills
 - 📫 Reach me at: **m.kashif6833@gmail.com**
 - ⚡ Fun fact: I love solving logical problems and exploring how code works behind the scenes
@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge" />
 </p>
 
