@@ -5,16 +5,18 @@
 </p>
 
 ---
+👨‍💻 About Me
+💻 I'm passionate about programming and building web interfaces
 
-### 👨‍💻 About Me
+🎓 Strong foundation in C++, C, JavaScript, and Object-Oriented Programming
 
-- 💻 I'm passionate about **programming and building web interfaces**
-- 🎓 Strong foundation in **C++, C**, and **Object-Oriented Programming**
-- 🌐 Comfortable with **HTML**, **CSS**, and **JavaScript** for front-end development
-- 📚 Always learning and improving my skills
-- 📫 Reach me at: **m.kashif6833@gmail.com**
-- ⚡ Fun fact: I love solving logical problems and exploring how code works behind the scenes
+🌐 Comfortable with HTML, CSS, and JavaScript for front-end development
 
+📚 Always learning and improving my skills
+
+📫 Reach me at: m.kashif6833@gmail.com
+
+⚡ Fun fact: I love solving logical problems and exploring how code works behind the scenes
 ---
 
 ### 🛠️ Tech Skills
