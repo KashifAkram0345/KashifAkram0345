@@ -5,21 +5,23 @@
 </p>
 
 ---
-👨‍💻 About Me
-💻 I'm passionate about programming and building web interfaces
 
-🎓 Strong foundation in C++, C, JavaScript, and Object-Oriented Programming
+## 👨‍💻 About Me  
+💻 I'm passionate about programming and building web interfaces  
 
-🌐 Comfortable with HTML, CSS, and JavaScript for front-end development
+🎓 Strong foundation in **C++, C, JavaScript, React, and Object-Oriented Programming**  
 
-📚 Always learning and improving my skills
+🌐 Comfortable with **HTML, CSS, JavaScript, and React** for front-end development  
 
-📫 Reach me at: m.kashif6833@gmail.com
+📚 Always learning and improving my skills  
 
-⚡ Fun fact: I love solving logical problems and exploring how code works behind the scenes
+📫 Reach me at: **m.kashif6833@gmail.com**  
+
+⚡ Fun fact: I love solving logical problems and exploring how code works behind the scenes  
+
 ---
 
-### 🛠️ Tech Skills
+## 🛠️ Tech Skills  
 
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white&style=for-the-badge" />
@@ -27,12 +29,13 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kashifAkram0345&show_icons=true&theme=tokyonight" width="45%" />
@@ -41,7 +44,7 @@
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me  
 
-- 📧 **m.kashif6833@gmail.com**
+- 📧 **m.kashif6833@gmail.com**  
 - 💻 [GitHub](https://github.com/kashifAkram0345)
