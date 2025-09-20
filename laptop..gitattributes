@@ -1,0 +1,11 @@
+# سب فائلز کو ٹیکسٹ کے طور پر ٹریٹ کریں اور لائن اینڈنگ نارملائز کریں
+* text=auto
+
+# عام کوڈ فائلز کے لیے خاص
+*.js text
+*.jsx text
+*.ts text
+*.tsx text
+*.css text
+*.html text
+*.json text
