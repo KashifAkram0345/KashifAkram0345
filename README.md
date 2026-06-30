@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me  
 💻 I'm passionate about programming and building web interfaces  
 
-🎓 Strong foundation in **C++, C, JavaScript, React, and Object-Oriented Programming**  
+🎓 Strong foundation in **C++, C, JavaScript, React, and Object-Oriented Programming,Node,express**  
 
 🌐 Comfortable with **HTML, CSS, JavaScript, and React** for front-end development  
 
